@@ -13,7 +13,7 @@ This generator is time saver for sign up forms. It allows you quickly form uniqu
 The pattern of your nickname should look like this:
 
 ```
-sometext_of_symbols{noun}_{verb}_
+sometext_of_symbols{noun[0]}_{verb[0]}_{noun[1]}
 ```
 
 You need to follow python's format syntaxis. The words in {} brackets mean names of dictionaries files. You need to pass that filenames to the args of program
