@@ -34,7 +34,7 @@ word3
 
 python main.py -d *filename* *dictionary2* -p patterns
 
-will upload all words from dictionary with filename
+will upload all words from dictionary with filename *filename* and etc.
 
 ## Usage
 
@@ -42,6 +42,9 @@ To start program
 > python main.py
 
 Then use special hotkeys:
+
 'n' - next nickname
+
 'p' - previous nickname
+
 'q' - quit
