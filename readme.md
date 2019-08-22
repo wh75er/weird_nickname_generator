@@ -16,13 +16,13 @@ The pattern of your nickname should look like this:
 sometext_of_symbols{noun[0]}_{verb[0]}_{noun[1]}
 ```
 
-You need to follow python's format syntaxis. The words in {} brackets mean names of dictionaries files. You need to pass that filenames to the args of program
+You need to follow python's format syntax. The words in {} brackets mean names of dictionary files. You need to pass those filenames to the args of program(or use predefined filenames)
 
-Also, you can store patterns in file seperated by *next line* symbol
+Also, you can store patterns in file separated by *next line* symbol
 
 ## Dictionaries
 
-You can create your dictionaries by finding words you want in dictionary in the web. Then you do it, just create file with *filename* and store words into it seperated by *next line* symbol. Example for file with *filename* looks like this:
+You can create your dictionaries by finding words you want and store them to the file with *filename* separated by *next line* symbol. Example for file with *filename* looks like this:
 
 *filename*:
 
