@@ -1,4 +1,4 @@
-{verb}ing_{conjunction}_{noun}
-{verb}ing_{noun}
-{adjective}_{noun}
-{noun}_{preposition}_{adjective}_{noun}
+{verb[0]}ing_{conjunction[0]}_{noun[0]}
+{verb[0]}ing_{noun[0]}
+{adjective[0]}_{noun[0]}
+{noun[0]}_{preposition[0]}_{adjective[0]}_{noun[1]}

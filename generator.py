@@ -42,7 +42,7 @@ def getch():
     return ch
 
 def getNickname(d, p):
-    return random.choice(p).format(**{k:random.choice(v) for k, v in d.items()})
+    return random.choice(p).format(**{k:random.sample(v, 5) for k, v in d.items()})
 
 def generate(d, p):
     buf = Buffer()
