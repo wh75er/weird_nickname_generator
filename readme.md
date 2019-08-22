@@ -21,9 +21,9 @@ Also, you can store patterns in file seperated by *next line* symbol
 
 ## Dictionaries
 
-You can create your dictionaries by finding words you want in dictionary in the web. Then you do it, just create file with <filename> and store words into it seperated by *next line* symbol. Example for file with <filename> looks like this:
+You can create your dictionaries by finding words you want in dictionary in the web. Then you do it, just create file with *filename* and store words into it seperated by *next line* symbol. Example for file with *filename* looks like this:
 
-<filename>:
+*filename*:
 
 ```
 word1
@@ -31,6 +31,6 @@ word2
 word3
 ```
 
-python main.py -d <filename> -p patterns
+python main.py -d *filename* *dictionary2* -p patterns
 
 will upload all words from dictionary with filename
