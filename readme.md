@@ -6,6 +6,7 @@ This generator is time saver for sign up forms. It allows you quickly form uniqu
 
 * [Patterns](#patterns)
 * [Dictionaries](#dictionaries)
+* [Usage](#usage)
 
 ## Patterns
 
@@ -34,3 +35,13 @@ word3
 python main.py -d *filename* *dictionary2* -p patterns
 
 will upload all words from dictionary with filename
+
+## Usage
+
+To start program
+> python main.py
+
+Then use special hotkeys:
+'n' - next nickname
+'p' - previous nickname
+'q' - quit
